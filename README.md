@@ -12,6 +12,9 @@ You NEED Battery installed to use this script.
 brew install batt
 sudo brew services start batt
 ```
+3. Install python
 
 Now open the application and enter your password to run as sudo.
 And your MagSafe LED should be blinking Green and Orange!
+
+TO ENSURE THAT IT WON'T BE STUCK ON ORANGE/GREEN, ALWAYS STOP THE SCRIPT WITH CTRL+C.
